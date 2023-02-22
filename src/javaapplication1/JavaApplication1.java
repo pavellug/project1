@@ -19,8 +19,6 @@ public class JavaApplication1 {
         for(int i = 0; i < 10; i++) {
             
             System.out.print("Hello world ");
-            System.out.print("Hello ");
-            System.out.println("world");
         
         }
     }
