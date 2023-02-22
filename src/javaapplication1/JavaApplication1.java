@@ -20,8 +20,7 @@ public class JavaApplication1 {
             
             System.out.print("Hello world ");
             System.out.print("Hello ");
-            System.out.print("world");
-            System.out.println(".");
+            System.out.println("world");
         
         }
     }
