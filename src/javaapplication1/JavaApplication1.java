@@ -19,7 +19,7 @@ public class JavaApplication1 {
         for(int i = 0; i < 10; i++) {
             
             System.out.print("Hello world ");
-            System.out.print("Hi");
+            System.out.print("H/vc");
         
         }
     }
